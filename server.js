@@ -1,6 +1,6 @@
 const
   Reservation = require("./lib/Reservation"),
-  WaitingList = require("./lib/WaitingList")
+  WaitingList = require("./lib/WaitingList"),
   express = require("express"),
   path = require("path"),
   fs = require("fs")
